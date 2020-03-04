@@ -1,0 +1,29 @@
+{
+  "name": "aws-rek",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "atob": "^2.1.1",
+    "aws-sdk": "^2.263.1",
+    "b64-to-blob": "^1.2.19",
+    "blob": "0.0.4",
+    "blob-util": "^2.0.2",
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "dotenv": "^6.0.0",
+    "errorhandler": "^1.5.0",
+    "express": "^4.16.3",
+    "express-fileupload": "^0.4.0",
+    "helmet": "^3.12.1",
+    "is-typedarray": "^1.0.0",
+    "method-override": "^2.3.10",
+    "morgan": "^1.9.0",
+    "split": "^1.0.1"
+  }
+}
